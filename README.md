@@ -1,1 +1,1 @@
-# EduQuest
+# StudyNotion
